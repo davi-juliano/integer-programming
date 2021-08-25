@@ -1,0 +1,3 @@
+[0, 3, 2, 1, 4]
+Resultado final: 21
+Tempo de execução: 0.0007672309875488281 segundos
