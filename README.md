@@ -1,2 +1,2 @@
-# Otimizacao-Inteira
+# Integer programming
 Integer Optimization Codes and Heuristics
